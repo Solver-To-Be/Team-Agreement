@@ -6,7 +6,7 @@ Describe at least:
 
 ### What are the key strengths of each person on the team?
 1. khalid hamedi:
-2. Mahmoud hamdan: 
+2. Mahmoud hamdan: debugger , GitHub skills
 3. Samah Hamed:Writing code, Problem Solving
 4. ahmad hamzh:
 5. Marwan Al Rawashdeh: Writing code, Problem Solving
